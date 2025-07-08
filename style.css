@@ -1,0 +1,35 @@
+body {
+    background-color: #e1e0dc;
+}
+h1 {
+    color: #212325;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+ul li {
+    padding: 8px;
+}
+img {
+    border-radius: 16px;
+    width: 640px;
+}
+table {
+    border-color: gray;
+    color: #252729;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    width: 640px;
+}
+table td {
+    text-align: center;
+    text-decoration: underline;
+}
+table img {
+    all: unset;
+    width: 100%;
+}
+a:hover {
+    color: #8f00ff;
+}
